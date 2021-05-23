@@ -60,3 +60,10 @@ nav ul li a {
   animation: navA 3s ease-in-out 0s infinite normal;
   transition: 0.4s;
 }
+
+nav ul li a:hover {
+  color: rgb(235, 113, 57);
+  padding: 0.7rem;
+  border-bottom: 0.2rem solid green;
+  transition: 0.4s;
+}
