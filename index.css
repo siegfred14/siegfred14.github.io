@@ -48,3 +48,8 @@ nav ul {
   opacity: 0.5;
   text-decoration: none;
 }
+
+nav ul li {
+  padding: 1em;
+  border-top: 2px solid rgb(45, 46, 48);
+}
