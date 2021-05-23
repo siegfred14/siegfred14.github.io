@@ -53,3 +53,10 @@ nav ul li {
   padding: 1em;
   border-top: 2px solid rgb(45, 46, 48);
 }
+
+nav ul li a {
+  text-decoration: none;
+  color: rgb(236, 155, 117);
+  animation: navA 3s ease-in-out 0s infinite normal;
+  transition: 0.4s;
+}
