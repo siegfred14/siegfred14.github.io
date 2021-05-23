@@ -13,3 +13,20 @@ body {
   background-size: cover;
   font-family: helvetica;
 }
+
+/* NAV BAR */
+
+nav {
+  /* background-color: rgb(22, 21, 21); */
+  background-color: rgb(233, 210, 167);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  overflow: hidden;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 2px solid rgb(45, 46, 48);
+  animation: navBar 3s ease-in-out 0s infinite normal;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+}
