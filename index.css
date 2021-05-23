@@ -30,3 +30,9 @@ nav {
   z-index: 1;
   top: 0;
 }
+
+nav p {
+  color: rgb(233, 210, 167);
+  background-color: rgb(45, 46, 48);
+  padding: 1em;
+}
