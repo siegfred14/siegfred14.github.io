@@ -41,3 +41,10 @@ nav ul {
   list-style-type: none;
   display: flex;
 }
+
+.nav-list2 {
+  color: currentColor;
+  cursor: not-allowed;
+  opacity: 0.5;
+  text-decoration: none;
+}
