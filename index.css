@@ -67,3 +67,7 @@ nav ul li a:hover {
   border-bottom: 0.2rem solid green;
   transition: 0.4s;
 }
+
+.main-edited {
+  display: none;
+}
