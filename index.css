@@ -77,3 +77,11 @@ nav ul li a:hover {
   background-color: rgba(0, 0, 0, 0.8);
   text-align: center;
 }
+
+.wrapper div {
+  position: absolute;
+  top: 40%;
+  line-height: 3em;
+  color: rgb(233, 210, 167);
+  width: 100%;
+}
