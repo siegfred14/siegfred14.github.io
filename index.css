@@ -101,3 +101,7 @@ nav ul li a:hover {
   border-radius: 4px;
   transition: all 0.4s;
 }
+
+.submit:hover {
+  box-shadow: 0 0 5px silver;
+}
