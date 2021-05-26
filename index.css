@@ -135,3 +135,8 @@ nav ul li a:hover {
   /* display: grid;
       grid-template-columns: 70% 30%; */
 }
+
+#span1 {
+  color: rgb(195, 7, 7);
+  animation: span1 4s linear 0s infinite normal;
+}
