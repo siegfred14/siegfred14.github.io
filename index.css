@@ -145,3 +145,10 @@ nav ul li a:hover {
   color: #551a8b;
   animation: span2 4s linear 0s infinite normal;
 }
+
+.image-circle {
+  height: 10em;
+  width: 10em;
+  margin: 2%;
+  border-radius: 50%;
+}
