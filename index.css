@@ -157,3 +157,11 @@ nav ul li a:hover {
     no-repeat scroll center;
   background-size: contain;
 }
+
+/* ABOUT ME */
+
+.about_me {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
