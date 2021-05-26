@@ -140,3 +140,8 @@ nav ul li a:hover {
   color: rgb(195, 7, 7);
   animation: span1 4s linear 0s infinite normal;
 }
+
+#span2 {
+  color: #551a8b;
+  animation: span2 4s linear 0s infinite normal;
+}
