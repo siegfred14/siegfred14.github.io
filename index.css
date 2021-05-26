@@ -151,4 +151,9 @@ nav ul li a:hover {
   width: 10em;
   margin: 2%;
   border-radius: 50%;
+  box-shadow: 0 0 5px black;
+  border: 2px solid white;
+  background: url("https://scontent-los2-1.xx.fbcdn.net/v/t1.0-9/53403606_10216717025351067_1950602609144365056_o.jpg?_nc_cat=110&ccb=2&_nc_sid=8bfeb9&_nc_ohc=160T5afSrtUAX9HYZeW&_nc_ht=scontent-los2-1.xx&oh=d38eeb38bd230c601b87d222f25e496e&oe=5FDFC806")
+    no-repeat scroll center;
+  background-size: contain;
 }
