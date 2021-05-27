@@ -169,3 +169,10 @@ nav ul li a:hover {
 .about_me div h3 {
   text-shadow: 0 0 0.3em #551a8b;
 }
+
+.about_me div {
+  width: 70%;
+  text-align: right;
+  border-right: 0.2em solid #551a8b;
+  padding: 1em;
+}
