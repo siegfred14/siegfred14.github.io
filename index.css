@@ -186,3 +186,8 @@ nav ul li a:hover {
   border-radius: 0.25rem;
   font-size: 1.5em;
 }
+
+.projects h3 {
+  position: relative;
+  padding-top: 6%;
+}
