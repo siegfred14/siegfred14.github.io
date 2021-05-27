@@ -176,3 +176,13 @@ nav ul li a:hover {
   border-right: 0.2em solid #551a8b;
   padding: 1em;
 }
+
+/* END OF ABOUT ME */
+
+/* PROJECTS */
+.projects {
+  background: linear-gradient(225deg, rgba(0, 0, 0, 0), rgb(233, 210, 167));
+  margin: 2%;
+  border-radius: 0.25rem;
+  font-size: 1.5em;
+}
