@@ -190,4 +190,6 @@ nav ul li a:hover {
 .projects h3 {
   position: relative;
   padding-top: 6%;
+  width: 30%;
+  text-align: right;
 }
