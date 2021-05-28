@@ -169,7 +169,6 @@ nav ul li a:hover {
 .about_me div h3 {
   text-shadow: 0 0 0.3em #551a8b;
 }
-
 .about_me div {
   width: 70%;
   text-align: right;
@@ -195,4 +194,10 @@ nav ul li a:hover {
   border-bottom: 0.2em solid #551a8b;
   text-shadow: 0 0 0.3em #551a8b;
   left: 50%;
+}
+
+.projects div {
+  margin: 2em;
+  width: 80%;
+  display: flex;
 }
