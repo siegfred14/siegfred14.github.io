@@ -200,4 +200,7 @@ nav ul li a:hover {
   margin: 2em;
   width: 80%;
   display: flex;
+  box-shadow: 0 0 0.66em black;
+  border-radius: 0.35em;
+  align-items: center;
 }
