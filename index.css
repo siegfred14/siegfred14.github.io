@@ -204,3 +204,8 @@ nav ul li a:hover {
   border-radius: 0.35em;
   align-items: center;
 }
+
+.projects div p,
+a {
+  margin: 0.5em;
+}
