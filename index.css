@@ -209,3 +209,8 @@ nav ul li a:hover {
 a {
   margin: 0.5em;
 }
+
+.projects div a {
+  text-align: center;
+  text-decoration: none;
+}
