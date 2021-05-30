@@ -235,3 +235,8 @@ a {
   margin-left: 15%;
   background: radial-gradient(rgb(53, 233, 53), rgb(73, 110, 73));
 }
+
+.projects div:nth-child(odd) {
+  text-align: left;
+  background: radial-gradient(rgb(73, 110, 73), rgb(53, 233, 53));
+}
