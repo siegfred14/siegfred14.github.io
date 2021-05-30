@@ -222,3 +222,8 @@ a {
   transform: scale(1.03, 1.03);
   transition: 0.4s;
 }
+
+.projects div img {
+  height: 7em;
+  width: 8em;
+}
