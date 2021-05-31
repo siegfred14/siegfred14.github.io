@@ -265,4 +265,6 @@ a {
   width: 60%;
   margin-left: 20%;
   color: white;
+  text-decoration: none;
+  background: linear-gradient(45deg, black, rgb(11, 165, 11));
 }
