@@ -241,3 +241,11 @@ a {
   background: radial-gradient(rgb(73, 110, 73), rgb(53, 233, 53));
 }
 /* END OF PROJECTS */
+
+/* CONTACTS */
+
+#contact h3 {
+  position: relative;
+  padding-top: 3%;
+  margin-bottom: 3%;
+}
