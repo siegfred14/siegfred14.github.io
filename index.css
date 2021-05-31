@@ -263,4 +263,6 @@ a {
 .contact-links a {
   padding: 1em;
   width: 60%;
+  margin-left: 20%;
+  color: white;
 }
