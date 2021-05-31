@@ -254,3 +254,8 @@ a {
   text-shadow: 0 0 0.3em #551a8b;
   left: 50%;
 }
+
+.contact-links {
+  display: grid;
+  grid-template-rows: 1fr;
+}
