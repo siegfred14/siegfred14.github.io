@@ -259,3 +259,8 @@ a {
   display: grid;
   grid-template-rows: 1fr;
 }
+
+.contact-links a {
+  padding: 1em;
+  width: 60%;
+}
