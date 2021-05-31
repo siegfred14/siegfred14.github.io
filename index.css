@@ -251,4 +251,6 @@ a {
   width: 30%;
   border-bottom: 0.2em solid #551a8b;
   text-align: right;
+  text-shadow: 0 0 0.3em #551a8b;
+  left: 50%;
 }
