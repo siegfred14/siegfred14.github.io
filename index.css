@@ -282,3 +282,8 @@ a {
   text-align: center;
   padding: 2%;
 }
+
+#footer-links ul {
+  display: flex;
+  align-items: flex-end;
+}
