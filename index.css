@@ -286,4 +286,6 @@ a {
 #footer-links ul {
   display: flex;
   align-items: flex-end;
+  justify-content: center;
+  padding-top: 2%;
 }
