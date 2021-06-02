@@ -289,7 +289,12 @@ a {
   justify-content: center;
   padding-top: 2%;
 }
-
 #footer-links ul li {
   list-style-type: none;
+}
+
+#footer-links ul li a {
+  text-decoration: none;
+  color: green;
+  transition: 0.4s;
 }
