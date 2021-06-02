@@ -298,3 +298,8 @@ a {
   color: green;
   transition: 0.4s;
 }
+
+#footer-links ul li:hover a {
+  color: purple;
+  transition: 0.4s;
+}
