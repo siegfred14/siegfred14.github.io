@@ -24,6 +24,15 @@ body {
   }
 }
 
+@keyframes span2 {
+  30% {
+    color: rgb(195, 7, 7);
+  }
+  90% {
+    color: rgb(235, 113, 57);
+  }
+}
+
 /* END OF KEYFRAMES */
 
 /* NAV BAR */
