@@ -42,6 +42,14 @@ body {
   }
 }
 
+@keyframes navA {
+  0% {
+    color: rgb(236, 155, 117);
+  }
+  50% {
+    color: rgb(168, 22, 22);
+  }
+}
 /* END OF KEYFRAMES */
 
 /* NAV BAR */
