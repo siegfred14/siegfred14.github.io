@@ -33,6 +33,15 @@ body {
   }
 }
 
+@keyframes navBar {
+  0% {
+    background-color: rgb(233, 210, 167);
+  }
+  50% {
+    background-color: lightslategray;
+  }
+}
+
 /* END OF KEYFRAMES */
 
 /* NAV BAR */
