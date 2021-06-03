@@ -15,6 +15,14 @@ body {
 }
 
 /* KEYFRAMES */
+@keyframes span1 {
+  3% {
+    color: #551a8b;
+  }
+  90% {
+    color: rgb(235, 113, 57);
+  }
+}
 
 /* END OF KEYFRAMES */
 
