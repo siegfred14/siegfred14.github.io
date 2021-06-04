@@ -57,6 +57,11 @@ body {
   body {
     font-size: 50%;
   }
+
+  /* Cover Page */
+  .wrapper div p {
+    padding-bottom: 10px;
+  }
 }
 
 /* END OF MEDIA QUERIES */
