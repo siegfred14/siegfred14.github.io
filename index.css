@@ -62,6 +62,13 @@ body {
   .wrapper div p {
     padding-bottom: 10px;
   }
+
+  /* Home and About*/
+
+  #home,
+  #about {
+    font-size: 17px;
+  }
 }
 
 /* END OF MEDIA QUERIES */
