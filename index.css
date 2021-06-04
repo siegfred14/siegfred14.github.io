@@ -54,6 +54,9 @@ body {
 
 /* MEDIA QUERRIES */
 @media (max-width: 500px) {
+  body {
+    font-size: 50%;
+  }
 }
 
 /* END OF MEDIA QUERIES */
