@@ -82,11 +82,12 @@ body {
   }
 
   #projects h3 {
-    width: 30%;
+    /* width: 30%;
           text-align: right;
           border-bottom: 0.2em solid #551a8b;
-          text-shadow: 0 0 0.3em #551a8b;
-
+          text-shadow: 0 0 0.3em #551a8b; */
+    margin-bottom: 3%;
+    left: 15%;
   }
 
 /* END OF MEDIA QUERIES */
