@@ -93,6 +93,9 @@ body {
   #projects div {
     display: flex;
     flex-direction: column;
+    margin: 0.5em;
+    width: 60%;
+    display: flex;
   }
 
   /* END OF PROJECTS */
