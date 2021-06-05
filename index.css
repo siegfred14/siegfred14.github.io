@@ -104,6 +104,11 @@ body {
     flex-direction: column-reverse;
   }
 
+  .projects div a img {
+    height: auto;
+    width: 90%;
+  }
+
   /* END OF PROJECTS */
 }
 
