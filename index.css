@@ -90,6 +90,14 @@ body {
     left: 15%;
   }
 
+  #projects div {
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* END OF PROJECTS */
+}
+
 /* END OF MEDIA QUERIES */
 
 /* NAV BAR */
