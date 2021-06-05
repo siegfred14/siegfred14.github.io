@@ -96,6 +96,8 @@ body {
     margin: 0.5em;
     width: 60%;
     display: flex;
+    align-items: center;
+    padding: 2%;
   }
 
   /* END OF PROJECTS */
