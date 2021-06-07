@@ -112,6 +112,11 @@ body {
   /* END OF PROJECTS */
 }
 
+@media (min-width: 501px) and (max-width: 768px) {
+  body {
+    font-size: 70%;
+  }
+}
 /* END OF MEDIA QUERIES */
 
 /* NAV BAR */
