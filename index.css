@@ -159,14 +159,14 @@ nav ul li {
   border-top: 2px solid rgb(45, 46, 48);
 }
 
-nav ul li a {
+.nav-list {
   text-decoration: none;
   color: rgb(236, 155, 117);
   animation: navA 3s ease-in-out 0s infinite normal;
   transition: 0.4s;
 }
 
-nav ul li a:hover {
+.nav-list:hover {
   color: rgb(235, 113, 57);
   padding: 0.7rem;
   border-bottom: 0.2rem solid green;
